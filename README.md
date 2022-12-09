@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # CoffeeScript language support in Atom
 [![macOS Build Status](https://travis-ci.org/atom/language-coffee-script.svg?branch=master)](https://travis-ci.org/atom/language-coffee-script)
 [![Windows Build status](https://ci.appveyor.com/api/projects/status/4j9aak7iwn2f2x7a/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/language-coffee-script/branch/master)  [![Dependency Status](https://david-dm.org/atom/language-coffee-script.svg)](https://david-dm.org/atom/language-coffee-script)
